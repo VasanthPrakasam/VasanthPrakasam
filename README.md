@@ -29,6 +29,7 @@
 
 ## 🛠️ Tech Arsenal
 
+### Programming & Data Science
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
@@ -36,6 +37,20 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+### Office & Productivity
+![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=flat-square&logo=Microsoft-Office&logoColor=white)
+![LibreOffice](https://img.shields.io/badge/-LibreOffice-18A303?style=flat-square&logo=LibreOffice&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat-square&logo=Microsoft-PowerPoint&logoColor=white)
+![Word](https://img.shields.io/badge/-Word-2B579A?style=flat-square&logo=Microsoft-Word&logoColor=white)
+
+### Professional Skills
+![Certified Resume Specialist](https://img.shields.io/badge/-Certified%20Resume%20Specialist-FF6B6B?style=flat-square&logo=certificate&logoColor=white)
+![Education](https://img.shields.io/badge/-Education-4ECDC4?style=flat-square&logo=graduation-cap&logoColor=white)
+![Certified Graphic Designer](https://img.shields.io/badge/-Certified%20Graphic%20Designer-FF4081?style=flat-square&logo=palette&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white)
+
 
 ## 📌 Pinned Projects
 
