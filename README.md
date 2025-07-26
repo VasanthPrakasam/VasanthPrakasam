@@ -77,7 +77,7 @@
 ### 🥗 Nutrition Paradox Analysis
 **→ EDA ✦ Nutrition Data ✦ Health Analytics ✦ Statistical Insights ✦ Data Visualization**
 
-[![Nutrition Paradox](https://img.shields.io/badge/-View%20Project-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasanthPrakasam/Nutrition-paradox)
+[![Nutrition Paradox](https://img.shields.io/badge/-View%20Project-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasanthPrakasam/Project-2-Nutrition-Paradox-A-Global-View-on-Obesity-and-Malnutrition)
 
 *Exploring nutritional patterns and paradoxes through comprehensive data analysis and visualization*
 
