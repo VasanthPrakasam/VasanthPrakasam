@@ -1,10 +1,6 @@
 # 🧠 Vasanth P. | Data Science @ Guvi HCL
 
-<div align="center">
-  
-![Visitor Counter](https://visitor-badge.laobi.icu/badge?page_id=VasanthPrakasam.VasanthPrakasam&title=Profile%20Views&left_color=black&right_color=brightgreen)
 
-</div>
 
 ---
 
@@ -38,6 +34,12 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
+### Data Analysis & Visualization
+![EDA](https://img.shields.io/badge/-EDA-FF9500?style=flat-square&logo=chart-line&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-36A2EB?style=flat-square&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
 ### Office & Productivity
 ![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=flat-square&logo=Microsoft-Office&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/-LibreOffice-18A303?style=flat-square&logo=LibreOffice&logoColor=white)
@@ -69,6 +71,24 @@
 [![Zomato Food Insights](https://img.shields.io/badge/-View%20Project-28A745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasanthPrakasam/Zomato_Food_Delivery_Insights.)
 
 *Comprehensive food delivery analytics with data-driven insights*
+
+---
+
+### 🥗 Nutrition Paradox Analysis
+**→ EDA ✦ Nutrition Data ✦ Health Analytics ✦ Statistical Insights ✦ Data Visualization**
+
+[![Nutrition Paradox](https://img.shields.io/badge/-View%20Project-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasanthPrakasam/Nutrition-paradox)
+
+*Exploring nutritional patterns and paradoxes through comprehensive data analysis and visualization*
+
+---
+
+### 🏠 Melbourne Housing Price Prediction
+**→ Machine Learning ✦ Real Estate Analytics ✦ Price Prediction ✦ Regression Models ✦ Power BI**
+
+[![Melbourne Housing Price](https://img.shields.io/badge/-View%20Project-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasanthPrakasam/Melbourne_Housing_Price_Prediction)
+
+*Predicting Melbourne housing prices using advanced ML algorithms and comprehensive market analysis*
 
 ---
 
@@ -165,6 +185,8 @@ Looking for **small-scale projects** to gain experience and build an amazing por
 *"From ancient history to future algorithms - every data point tells a story!"*
 
 **🧪 Algorithm Alchemist** • **📊 Data Storyteller** • **🚀 Ready for Opportunities**
+
+![Visitor Counter](https://visitor-badge.laobi.icu/badge?page_id=VasanthPrakasam.VasanthPrakasam&title=Viewer%20Count&left_color=black&right_color=brightgreen)
 
 ⭐ **Thanks for visiting!** ⭐
 
