@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 # 🌸 Vasanth P. | データサイエンティスト @ Guvi HCL
 
 <div align="center">
@@ -33,8 +33,6 @@
 
 *"From ancient scrolls to digital algorithms"*
 
-![Bamboo Forest](https://images.unsplash.com/photo-1528164344705-47542687000d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=150&q=80)
-
 </div>  
 
 ## 🛠️ Tech Arsenal
@@ -45,33 +43,31 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-### Machine Learning & Analytics
-![Linear Regression](https://img.shields.io/badge/-Linear%20Regression-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Logistic Regression](https://img.shields.io/badge/-Logistic%20Regression-FF4081?style=flat-square&logo=tensorflow&logoColor=white)
-![Classification](https://img.shields.io/badge/-Classification-4CAF50?style=flat-square&logo=tensorflow&logoColor=white)
-![Decision Tree](https://img.shields.io/badge/-Decision%20Tree-8BC34A?style=flat-square&logo=tensorflow&logoColor=white)
-![Regression](https://img.shields.io/badge/-Regression-03DAC6?style=flat-square&logo=tensorflow&logoColor=white)
-![Recommendation System](https://img.shields.io/badge/-Recommendation%20System-E91E63?style=flat-square&logo=tensorflow&logoColor=white)
+
+### Machine Learning 
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Feature Engineering](https://img.shields.io/badge/-Feature%20Engineering-FF9800?style=flat-square&logo=python&logoColor=white)
 ![Hyperparameter Tuning](https://img.shields.io/badge/-Hyperparameter%20Tuning-9C27B0?style=flat-square&logo=tensorflow&logoColor=white)
 ![Predictive Modeling](https://img.shields.io/badge/-Predictive%20Modeling-2196F3?style=flat-square&logo=tensorflow&logoColor=white)
-![Feature Engineering](https://img.shields.io/badge/-Feature%20Engineering-FF9800?style=flat-square&logo=python&logoColor=white)
+![Regression](https://img.shields.io/badge/-Regression-03DAC6?style=flat-square&logo=tensorflow&logoColor=white)
+![Linear Regression](https://img.shields.io/badge/-Linear%20Regression-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Classification](https://img.shields.io/badge/-Classification-4CAF50?style=flat-square&logo=tensorflow&logoColor=white)
+![Decision Tree](https://img.shields.io/badge/-Decision%20Tree-8BC34A?style=flat-square&logo=tensorflow&logoColor=white)
+![Recommendation System](https://img.shields.io/badge/-Recommendation%20System-E91E63?style=flat-square&logo=tensorflow&logoColor=white)
 
 ### Data Analysis & Visualization
 ![EDA](https://img.shields.io/badge/-EDA-FF9500?style=flat-square&logo=chart-line&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-36A2EB?style=flat-square&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Statistical Analysis](https://img.shields.io/badge/-Statistical%20Analysis-607D8B?style=flat-square&logo=chart-bar&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 ### Specialized Skills
 ![API Integration](https://img.shields.io/badge/-API%20Integration-00D4AA?style=flat-square&logo=api&logoColor=white)
 ![Healthcare Analytics](https://img.shields.io/badge/-Healthcare%20Analytics-DC143C?style=flat-square&logo=heart&logoColor=white)
 ![Sports Analytics](https://img.shields.io/badge/-Sports%20Analytics-FF6B35?style=flat-square&logo=cricket&logoColor=white)
-![Price Prediction](https://img.shields.io/badge/-Price%20Prediction-32CD32?style=flat-square&logo=money&logoColor=white)
 ![Customer Analytics](https://img.shields.io/badge/-Customer%20Analytics-9932CC?style=flat-square&logo=users&logoColor=white)
 
 ## 🚀 Featured Machine Learning Projects
