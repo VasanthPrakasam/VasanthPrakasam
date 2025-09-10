@@ -1,13 +1,8 @@
 # 🌸 Vasanth P. | データサイエンティスト @ Guvi HCL
 
 <div align="center">
-  
-```
-╔═══════════════════════════════════════════════════════════╗
-║                    🎋 静寂の中の洞察 🎋                    ║
-║                 Insights Within Silence                  ║
-╚═══════════════════════════════════════════════════════════╝
-```
+
+![Japanese Mountain](https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=300&q=80)
 
 **"道に迷うことなく発見できない道もある"**  
 *"Some paths can't be discovered without getting lost first"*
@@ -15,14 +10,7 @@
 **静かな分析者 • 恐れ知らずのモデラー • アルゴリズムの錬金術師**  
 *Quiet Analyst • Fearless Modeler • Algorithm Alchemist*
 
-```
-        🌸                    🍃                    🌸
-      ╭─────╮              ╭─────╮              ╭─────╮
-      │  侍  │              │  師  │              │  匠  │
-      │ Samurai │            │Sensei│            │Takumi│
-      ╰─────╯              ╰─────╯              ╰─────╯
-        🗾                    📊                    🤖
-```
+![Japanese Temple](https://images.unsplash.com/photo-1478436127897-769e1b3f0f36?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=200&q=80)
 
 </div>
 
@@ -30,13 +18,13 @@
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────┐
-│                    🏯 自己紹介 | About Me                │
-└─────────────────────────────────────────────────────────┘
-```
+![Cherry Blossom Tech](https://images.unsplash.com/photo-1522383225653-ed111181a951?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=150&q=80)
+
+## 🏯 自己紹介 | About Me
 
 </div>
+
+![Zen Garden](https://images.unsplash.com/photo-1545569341-9eb8b30979d9?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=200&q=80)
 
 🎓 **学士号 | Bachelor's Degree** → Integrated B.A in History @ Bharathidasan University, TN  
 📚 **機械学習修了 | ML Graduate** → GUVI-HCL Zen Class (IITM + NASSCOM Certified)  
@@ -47,11 +35,11 @@
 
 <div align="center">
 
-```
-        🌊～～～～～～～～～～～～～～～～～～～～🌊
-       "From ancient scrolls to digital algorithms"
-        🌊～～～～～～～～～～～～～～～～～～～～🌊
-```
+![Japanese Waves](https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=100&q=80)
+
+*"From ancient scrolls to digital algorithms"*
+
+![Bamboo Forest](https://images.unsplash.com/photo-1528164344705-47542687000d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=150&q=80)
 
 </div>  
 
@@ -174,6 +162,7 @@
 *Skills Gained: Hyperparameter Optimization, Cross-Validation, Model Performance Enhancement, Advanced ML Techniques*
 
 ---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
