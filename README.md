@@ -10,15 +10,11 @@
 **静かな分析者 • 恐れ知らずのモデラー • アルゴリズムの錬金術師**  
 *Quiet Analyst • Fearless Modeler • Algorithm Alchemist*
 
-![Japanese Temple](https://images.unsplash.com/photo-1478436127897-769e1b3f0f36?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=200&q=80)
-
 </div>
 
 ---
 
 <div align="center">
-
-![Cherry Blossom Tech](https://images.unsplash.com/photo-1522383225653-ed111181a951?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=150&q=80)
 
 ## 🏯 自己紹介 | About Me
 
@@ -34,8 +30,6 @@
 🌸 **生き甲斐 | Ikigai:** Data Scientist | ML Engineer | Predictive Modeling Expert | Python Developer | Power BI Developer
 
 <div align="center">
-
-![Japanese Waves](https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=100&q=80)
 
 *"From ancient scrolls to digital algorithms"*
 
@@ -234,11 +228,12 @@ Looking for **ML engineering opportunities** and **advanced data science project
 
 ---
 
-<div align="center">
-  
-*"From ancient history to predictive algorithms - every model tells the future's story!"*
+<div align="center">  
 
-**🧪 Algorithm Alchemist** • **🤖 ML Engineer** • **📊 Data Storyteller** • **🚀 Ready for ML Challenges**
+**皆様、ありがとうございました**
+**Thank you very much, everyone**
+
+![Japanese Cherry Blossom](https://images.unsplash.com/photo-1522383225653-ed111181a951?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=150&q=80)
 
 ![Visitor Counter](https://visitor-badge.laobi.icu/badge?page_id=VasanthPrakasam.VasanthPrakasam&title=Viewer%20Count&left_color=black&right_color=brightgreen)
 
