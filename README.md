@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🌸 Vasanth P. | データサイエンティスト @ Guvi HCL
+# 🌸 Vasanth Prakasam | Data Scientist
+# 🌸 ヴァサント・プラカサム | データサイエンティスト
 
 <div align="center">
 
