@@ -1,8 +1,8 @@
+<div align="center">
+  
 # 🌸 Vasanth P. | データサイエンティスト @ Guvi HCL
 
 <div align="center">
-
-![Japanese Mountain](https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=300&q=80)
 
 **"道に迷うことなく発見できない道もある"**  
 *"Some paths can't be discovered without getting lost first"*
@@ -22,12 +22,12 @@
 
 ![Zen Garden](https://images.unsplash.com/photo-1545569341-9eb8b30979d9?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=200&q=80)
 
-🎓 **学士号 | Bachelor's Degree** → Integrated B.A in History @ Bharathidasan University, TN  
-📚 **機械学習修了 | ML Graduate** → GUVI-HCL Zen Class (IITM + NASSCOM Certified)  
-🏛️ **元UPSC志願者 | Ex-UPSC Aspirant**  
-⚔️ **SQLサムライ | SQL Samurai** • **MLストーリーテラー | ML Storyteller** • **可視化の達人 | Viz Virtuoso**  
-📍 **所在地 | Location:** Salem, Tamil Nadu  
-🌸 **生き甲斐 | Ikigai:** Data Scientist | ML Engineer | Predictive Modeling Expert | Python Developer | Power BI Developer
+🧬 About Me |
+🎓 Integrated B.A in History @ Bharathidasan University, TN |
+📚 Machine Learning Graduate @ GUVI-HCL Zen Class (IITM + NASSCOM Certified) |
+🧪 Ex-UPSC Aspirant |
+📍 Location: Salem, Tamil Nadu |
+🧠 Ikigai: Data Scientist | ML Engineer | Predictive Modeling Expert | Python Developer | Power BI Developer | Tableau Developer
 
 <div align="center">
 
@@ -104,7 +104,7 @@
 ---
 
 ### 🛍️ Shopper Spectrum Analytics
-**→ Customer Segmentation ✦ Behavioral Analysis ✦ E-commerce Analytics ✦ ML Classification**
+**→ Customer Segmentation ✦  Recommendation System ✦ E-commerce Analytics ✦ ML-- Unsupervised Learning**
 
 [![Shopper Spectrum](https://img.shields.io/badge/-View%20Project-FF1493?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasanthPrakasam/Shopper_Spectrum)
 
